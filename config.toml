@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Creative portfolio"
+title = "Love for Life"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,8 +15,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I find inspiration in the love for my family. And this is what love is leading my life to...",
+    "Originally from a small town in Japan, currently in another small town in the US."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -57,12 +57,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
   email         = "email@example.com"
-  twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
   youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  

@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I find inspiration in the love for my family. And this is what love is leading my life to...",
+    "I find inspiration in the love for my family. And this is where love is taking me... Thanks for stopping by!",
     "Originally from a small town in Japan, currently in another small town in the US."
   ]
   # Contact page
